@@ -2,10 +2,16 @@
   "problems": {
     "0004-median-of-two-sorted-arrays": {
       "difficulty": "Hard"
+    },
+    "0003-longest-substring-without-repeating-characters": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-08-19T18:53:15.120Z",
+      "lang": "python3",
+      "title": "Longest Substring Without Repeating Characters"
     }
   },
-  "solved": 1,
+  "solved": 2,
   "easy": 0,
-  "medium": 0,
+  "medium": 1,
   "hard": 1
 }
