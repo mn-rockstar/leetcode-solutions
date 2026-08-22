@@ -5,13 +5,19 @@
     },
     "0003-longest-substring-without-repeating-characters": {
       "difficulty": "Medium",
-      "solvedAt": "2026-08-19T18:53:15.120Z",
       "lang": "python3",
+      "solvedAt": "2026-08-19T18:53:15.120Z",
       "title": "Longest Substring Without Repeating Characters"
+    },
+    "3918-check-divisibility-by-digit-sum-and-product": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-08-22T18:51:44.218Z",
+      "lang": "python3",
+      "title": "Check Divisibility by Digit Sum and Product"
     }
   },
-  "solved": 2,
-  "easy": 0,
+  "solved": 3,
+  "easy": 1,
   "medium": 1,
   "hard": 1
 }
