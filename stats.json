@@ -11,13 +11,19 @@
     },
     "3918-check-divisibility-by-digit-sum-and-product": {
       "difficulty": "Easy",
-      "solvedAt": "2026-08-22T18:51:44.218Z",
       "lang": "python3",
+      "solvedAt": "2026-08-22T18:51:44.218Z",
       "title": "Check Divisibility by Digit Sum and Product"
+    },
+    "2002-stone-game-viii": {
+      "difficulty": "Hard",
+      "solvedAt": "2026-08-24T18:28:21.220Z",
+      "lang": "python3",
+      "title": "Stone Game VIII"
     }
   },
-  "solved": 3,
+  "solved": 4,
   "easy": 1,
   "medium": 1,
-  "hard": 1
+  "hard": 2
 }
