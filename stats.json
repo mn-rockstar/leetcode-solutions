@@ -17,13 +17,19 @@
     },
     "2002-stone-game-viii": {
       "difficulty": "Hard",
-      "solvedAt": "2026-08-24T18:28:21.220Z",
       "lang": "python3",
+      "solvedAt": "2026-08-24T18:28:21.220Z",
       "title": "Stone Game VIII"
+    },
+    "4080-smallest-missing-multiple-of-k": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-08-25T18:40:13.021Z",
+      "lang": "python3",
+      "title": "Smallest Missing Multiple of K"
     }
   },
-  "solved": 4,
-  "easy": 1,
+  "solved": 5,
+  "easy": 2,
   "medium": 1,
   "hard": 2
 }
