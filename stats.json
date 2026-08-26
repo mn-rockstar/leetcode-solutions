@@ -23,13 +23,19 @@
     },
     "4080-smallest-missing-multiple-of-k": {
       "difficulty": "Easy",
-      "solvedAt": "2026-08-25T18:40:13.021Z",
       "lang": "python3",
+      "solvedAt": "2026-08-25T18:40:13.021Z",
       "title": "Smallest Missing Multiple of K"
+    },
+    "3150-shortest-and-lexicographically-smallest-beautiful-string": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-08-26T18:41:28.164Z",
+      "lang": "python3",
+      "title": "Shortest and Lexicographically Smallest Beautiful String"
     }
   },
-  "solved": 5,
+  "solved": 6,
   "easy": 2,
-  "medium": 1,
+  "medium": 2,
   "hard": 2
 }
