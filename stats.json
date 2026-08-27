@@ -29,13 +29,19 @@
     },
     "3150-shortest-and-lexicographically-smallest-beautiful-string": {
       "difficulty": "Medium",
-      "solvedAt": "2026-08-26T18:41:28.164Z",
       "lang": "python3",
+      "solvedAt": "2026-08-26T18:41:28.164Z",
       "title": "Shortest and Lexicographically Smallest Beautiful String"
+    },
+    "4020-lexicographically-smallest-permutation-greater-than-target": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-08-27T04:42:14.061Z",
+      "lang": "python3",
+      "title": "Lexicographically Smallest Permutation Greater Than Target"
     }
   },
-  "solved": 6,
+  "solved": 7,
   "easy": 2,
-  "medium": 2,
+  "medium": 3,
   "hard": 2
 }
