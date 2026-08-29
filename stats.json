@@ -35,13 +35,19 @@
     },
     "4020-lexicographically-smallest-permutation-greater-than-target": {
       "difficulty": "Medium",
-      "solvedAt": "2026-08-27T04:42:14.061Z",
       "lang": "python3",
+      "solvedAt": "2026-08-27T04:42:14.061Z",
       "title": "Lexicographically Smallest Permutation Greater Than Target"
+    },
+    "3219-make-lexicographically-smallest-array-by-swapping-elements": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-08-29T16:42:38.964Z",
+      "lang": "python3",
+      "title": "Make Lexicographically Smallest Array by Swapping Elements"
     }
   },
-  "solved": 7,
+  "solved": 8,
   "easy": 2,
-  "medium": 3,
+  "medium": 4,
   "hard": 2
 }
