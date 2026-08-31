@@ -41,13 +41,19 @@
     },
     "3219-make-lexicographically-smallest-array-by-swapping-elements": {
       "difficulty": "Medium",
-      "solvedAt": "2026-08-29T16:42:38.964Z",
       "lang": "python3",
+      "solvedAt": "2026-08-29T16:42:38.964Z",
       "title": "Make Lexicographically Smallest Array by Swapping Elements"
+    },
+    "2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-08-31T17:53:27.647Z",
+      "lang": "python3",
+      "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points"
     }
   },
-  "solved": 8,
+  "solved": 9,
   "easy": 2,
-  "medium": 4,
+  "medium": 5,
   "hard": 2
 }
