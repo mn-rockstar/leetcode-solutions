@@ -47,13 +47,19 @@
     },
     "2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points": {
       "difficulty": "Medium",
-      "solvedAt": "2026-08-31T17:53:27.647Z",
       "lang": "python3",
+      "solvedAt": "2026-08-31T17:53:27.647Z",
       "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points"
+    },
+    "4256-construct-uniform-parity-array-i": {
+      "difficulty": "Easy",
+      "solvedAt": "2026-09-02T18:49:44.796Z",
+      "lang": "python3",
+      "title": "Construct Uniform Parity Array I"
     }
   },
-  "solved": 9,
-  "easy": 2,
+  "solved": 10,
+  "easy": 3,
   "medium": 5,
   "hard": 2
 }
