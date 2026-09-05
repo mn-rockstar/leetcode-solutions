@@ -53,13 +53,19 @@
     },
     "4256-construct-uniform-parity-array-i": {
       "difficulty": "Easy",
-      "solvedAt": "2026-09-02T18:49:44.796Z",
       "lang": "python3",
+      "solvedAt": "2026-09-02T18:49:44.796Z",
       "title": "Construct Uniform Parity Array I"
+    },
+    "4285-smallest-stable-index-ii": {
+      "difficulty": "Medium",
+      "solvedAt": "2026-09-05T15:58:33.131Z",
+      "lang": "python3",
+      "title": "Smallest Stable Index II"
     }
   },
-  "solved": 10,
+  "solved": 11,
   "easy": 3,
-  "medium": 5,
+  "medium": 6,
   "hard": 2
 }
